@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #FAF9F6;
+  color: #1e293b;
+  overflow-x: hidden;
+}
+
+/* Custom modern scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF9F6;
+}
+::-webkit-scrollbar-thumb {
+  background: #1A3C2B;
+  border-radius: 9999px;
+}
+
+.font-signature {
+  font-family: 'Caveat', cursive;
+}
+
+/* Rotating sticker badge */
+.rotating-badge {
+  animation: spin 16s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Soft card shadow from video reference */
+.ref-card-shadow {
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.04), 0 20px 25px -5px rgba(0, 0, 0, 0.02);
+}
+
+.ref-card-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  &:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 40px -10px rgba(26, 60, 43, 0.12);
+  }
+}
