@@ -78,7 +78,7 @@ import { PERSONAL_INFO } from '../../shared/data/portfolio-data';
                 <path id="circlePath" d="M 50, 50 m -35, 0 a 35,35 0 1,1 70,0 a 35,35 0 1,1 -70,0" fill="none"/>
                 <text font-size="9" font-weight="bold" fill="#FBBF24" letter-spacing="2">
                   <textPath href="#circlePath" startOffset="0%">
-                    HIRE ME • HIRE ME • HIRE ME •
+                    Angular • JAVA • SpringBoot •
                   </textPath>
                 </text>
               </svg>
