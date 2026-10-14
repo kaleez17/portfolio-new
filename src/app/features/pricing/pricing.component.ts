@@ -50,9 +50,7 @@ import { PRICING_DATA } from '../../shared/data/portfolio-data';
               </div>
 
               <!-- Features list with checkmarks -->
-              <ul class="space-y-2.5 pt-4 border-t"
-                  [class.border-forest-900/20]="tier.highlighted"
-                  [class.border-forest-800]="!tier.highlighted">
+              <ul class="space-y-2.5 pt-4 border-t border-forest-800/60">
                 <li *ngFor="let f of tier.features" class="flex items-start gap-2 text-xs">
                   <span [class.text-forest-900]="tier.highlighted" [class.text-sun-400]="!tier.highlighted">✓</span>
                   <span>{{ f }}</span>

@@ -140,7 +140,7 @@ export const PRICING_DATA = [
     tier: 'Full-Time Hire',
     rate: 'Competitive',
     period: '/ Annual CTC',
-    highlighted: True,
+    highlighted: true,
     badge: 'Immediate Availability',
     features: [
       'Java & Spring Boot Microservices Development',
@@ -156,7 +156,7 @@ export const PRICING_DATA = [
     tier: 'Contract / Project',
     rate: 'Fixed Scope',
     period: '/ Milestone',
-    highlighted: False,
+    highlighted: false,
     badge: 'End-to-End Delivery',
     features: [
       'Full Stack Web Application Architecture',
@@ -171,7 +171,7 @@ export const PRICING_DATA = [
     tier: 'Technical Consultation',
     rate: 'Flexible',
     period: '/ Hourly',
-    highlighted: False,
+    highlighted: false,
     badge: 'Code & Architecture',
     features: [
       'Angular Architecture & Signal Migration',
