@@ -17,7 +17,7 @@ export const PERSONAL_INFO = {
   whatsAppUrl: 'https://wa.me/+916379953691',
   githubUrl: 'https://github.com/kaleez17',
   linkedinUrl: 'https://www.linkedin.com/in/kaleeswaran-irulaiya-293414214',
-  summary: 'M.Sc. Information Technology graduate with software development training at Lissomsoft Technologies. Specialized in Java, Spring Boot, REST APIs, SQL, and reactive Angular 19 single-page applications. Creator of 25+ projects on GitHub.',
+  summary: 'M.Sc. Information Technology graduate with software development. Specialized in Java, Spring Boot, REST APIs, SQL, and reactive Angular 19 single-page applications. Creator of 25+ projects on GitHub.',
   metrics: {
     projects: '25+',
     trainingMonths: '3+',
