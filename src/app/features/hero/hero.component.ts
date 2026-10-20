@@ -28,8 +28,8 @@ import { PERSONAL_INFO } from '../../shared/data/portfolio-data';
 
           <!-- Subtitle / Bio -->
           <p class="text-slate-600 text-base sm:text-lg max-w-xl font-normal leading-relaxed">
-            M.Sc. Information Technology graduate with hands-on software development training at 
-            <strong class="text-forest-850 font-semibold">Lissomsoft Technologies</strong>.
+            M.Sc. Information Technology graduate with hands-on software development 
+            <strong class="text-forest-850 font-semibold"></strong>.
             Skilled in Java, Spring Boot, REST APIs, SQL, and modern Angular 19. Creator of 
             <strong class="text-forest-850 font-semibold">25+ GitHub repositories</strong>.
           </p>
