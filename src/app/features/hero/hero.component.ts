@@ -16,14 +16,14 @@ import { PERSONAL_INFO } from '../../shared/data/portfolio-data';
           <!-- Dashed Tag with Crosshairs (Exact reference from video) -->
           <div class="inline-flex items-center gap-2 px-3.5 py-1 rounded-sm border border-dashed border-slate-400 bg-white/60 text-slate-700 text-xs font-mono font-medium relative">
             <span class="text-sun-500 font-bold">⌖</span>
-            <span>Hello There!</span>
+            <span>Hey Buddy!</span>
             <span class="text-sun-500 font-bold">⌖</span>
           </div>
 
           <!-- Main Headline with Golden Highlight -->
           <h1 class="font-display font-extrabold text-4xl sm:text-5xl lg:text-6xl text-slate-900 leading-[1.15] tracking-tight">
-            I'm <span class="text-sun-500 underline decoration-sun-400 decoration-4 underline-offset-8">Kaleeswaran Irulaiya</span>, <br>
-            Java Full Stack & Angular Developer.
+            I'm <span class="text-sun-500 underline decoration-sun-400 decoration-4 underline-offset-8">Kaleeswaran Irulya</span>, <br>
+            Java Full Stack Engineer.
           </h1>
 
           <!-- Subtitle / Bio -->
@@ -51,7 +51,7 @@ import { PERSONAL_INFO } from '../../shared/data/portfolio-data';
 
             <button (click)="openAiTerminal.emit()"
                     class="px-5 py-3.5 rounded-full bg-sun-400 text-forest-900 font-bold text-sm hover:bg-sun-500 transition-all shadow-sm flex items-center gap-2">
-              <span>✨</span> Ask AI Assistant
+              <span>✨</span> Ask Assistant
             </button>
           </div>
 
