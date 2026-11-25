@@ -112,11 +112,11 @@ export const JOURNEY_DATA = {
   ],
   experience: [
     {
-      period: 'June 2026 – August 2026',
+      period: 'June 2026 – Present',
       company: 'Lissomsoft Technologies',
-      role: 'Software Developer Trainee',
+      role: 'Full-stack-engineer',
       location: 'Guindy, Chennai',
-      summary: 'Practical enterprise training across Java, Spring Boot, REST API testing via Postman, SQL databases, and frontend Angular.'
+      summary: 'Practical enterprise projects across Java, Spring Boot, REST API testing via Postman, SQL databases, and frontend Angular.'
     },
     {
       period: '2024',
