@@ -33,7 +33,7 @@ import { CommonModule } from '@angular/common';
           <button (click)="openAiTerminal.emit()" 
                   class="hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-forest-900 border border-sun-400/40 text-sun-400 text-xs font-semibold hover:bg-forest-950 transition-colors">
             <span class="w-1.5 h-1.5 rounded-full bg-sun-400 animate-ping"></span>
-            <span>AI Bot</span>
+            <span>Chat Bot</span>
           </button>
 
           <a href="#contact" 
