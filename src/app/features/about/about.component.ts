@@ -75,7 +75,7 @@ import { PERSONAL_INFO } from '../../shared/data/portfolio-data';
             </div>
             <div>
               <div class="font-display font-black text-3xl sm:text-4xl text-sun-400">1+</div>
-              <div class="text-slate-300 text-xs mt-1">Years Production Trainee</div>
+              <div class="text-slate-300 text-xs mt-1">Years Production</div>
             </div>
           </div>
 
